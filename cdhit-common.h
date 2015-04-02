@@ -42,7 +42,8 @@
 #define CDHIT_VERSION  "4.6"
 
 #ifndef MAX_SEQ
-#define MAX_SEQ 655360
+// #define MAX_SEQ 655360
+#define MAX_SEQ 5000000
 #endif
 
 #define MAX_AA 23
